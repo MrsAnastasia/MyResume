@@ -1,3 +1,4 @@
+<div>
   <style>
    .round {
     border-radius: 100px; /* Радиус скругления */
@@ -6,6 +7,7 @@
    }
   </style>
 <img src="https://github.com/MrsAnastasia/MyResume/blob/main/photos/photo_2021-02-21_13-09-52.jpg" style="border-radius: 100px"/>
+</div>
 # Hi, I'm Anastasia👋
 Here are some worlds about my life. I was born on the 29 of November 1999. I'm from Russia. I graduated from the Voronezh State Technical University with a bachelor's degree. At the moment I have moved to Moscow, as there are more prospects in the capital and I want to get a job at Ozon. 
 I completed training courses at the company Neoflex.Participated in the hackaton "Telegram bot development".
