@@ -6,7 +6,7 @@
     box-shadow: 0 0 7px #666; /* Параметры тени */
    }
   </style>
-<img src="https://github.com/MrsAnastasia/MyResume/blob/main/photos/photo_2021-02-21_13-09-52.jpg" style="border-radius: 100px"/>
+<img src="https://github.com/MrsAnastasia/MyResume/blob/main/photos/photo_2021-02-21_13-09-52.jpg" style="border-radius: 100px;"/>
 </div>
 
 # Hi, I'm Anastasia👋
