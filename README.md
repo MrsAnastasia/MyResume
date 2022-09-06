@@ -3,11 +3,11 @@ Here are some worlds about my life. I was born on the 29 of November 1999. I'm f
 I completed training courses at the company Neoflex.Participated in the hackaton "Telegram bot development".
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=MrsAnastasia3&show_icons=true&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/MyResume/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyResume&layout=compact"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=MrsAnastasia3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/MrsAnastasia/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrsAnastasia&layout=compact"/></a>
 </p>
 
 <p align='center'>
