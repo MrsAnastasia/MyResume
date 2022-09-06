@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MrsAnastasia/MyResume/blob/main/photos/photo_2021-02-21_13-09-52.jpg" width="15%"/>
+<img src="https://github.com/MrsAnastasia/MyResume/blob/main/photos/photo_2021-02-21_13-09-52.jpg" width="15%" style="border-radius: 50%"/>
 
 # Hi, I'm Anastasia👋
 Here are some worlds about my life. I was born on the 29 of November 1999. I'm from Russia. I graduated from the Voronezh State Technical University with a bachelor's degree. At the moment I have moved to Moscow, as there are more prospects in the capital and I want to get a job at Ozon. 
