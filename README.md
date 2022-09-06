@@ -1,5 +1,5 @@
-
-<img src="https://github.com/MrsAnastasia/MyResume/blob/main/photos/photo_2021-02-21_13-09-52.jpg" style="border-radius: 100px;"/>
+<div style="border-radius: 100px;">
+<img src="https://github.com/MrsAnastasia/MyResume/blob/main/photos/photo_2021-02-21_13-09-52.jpg"/>
 </div>
 
 # Hi, I'm Anastasia👋
